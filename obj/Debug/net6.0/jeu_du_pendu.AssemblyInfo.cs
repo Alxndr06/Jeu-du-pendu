@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jeu_du_pendu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9e9a956ced99cd035b969d2d6927de3dfae4e94")]
 [assembly: System.Reflection.AssemblyProductAttribute("jeu_du_pendu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jeu_du_pendu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
