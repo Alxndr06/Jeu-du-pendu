@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Runtime.InteropServices;
 using AsciiArt;
 
-namespace jeu_du_pendu
+namespace hangman
 {
     class Program
     {
